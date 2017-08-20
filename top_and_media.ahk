@@ -3,10 +3,11 @@
 
 /*
 -------------------------------------------------------------------
+BASIC KEY DESCRIPTIONS:
 ^ means ctrl
 ! means alt
--------------------------------------------------------------------
 
+-------------------------------------------------------------------
 SHORTCUTS WITHIN THIS SCRIPT:
 Alt-A: make window always on top
 
@@ -30,8 +31,6 @@ Key summary	- https://autohotkey.com/docs/commands/Send.htm
 More keys	- https://autohotkey.com/docs/KeyList.htm
 Examples	- https://autohotkey.com/docs/Hotkeys.htm
 Media control	- https://superuser.com/questions/278951/my-keyboard-has-no-media-keys-can-i-control-media-without-them
-
-
 */
 
 !a::
